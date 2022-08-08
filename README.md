@@ -46,6 +46,7 @@ Users should be able to:
 
 <h3>The following dependencies are used in this project:</h3>
 
+<p>
 <img src="https://img.shields.io/badge/@ant--design/icons-v4.7.0-3CCF4E"> 
 <img scr="https://img.shields.io/badge/react--router--dom-v6.3.0-3CCF4E">
 <img src="https://img.shields.io/badge/react--redux-v8.0.2-3CCF4E"> 
@@ -56,7 +57,7 @@ Users should be able to:
 <img src="https://img.shields.io/badge/html--react--parser-v3.0.1-3CCF4E">
 <img src="https://img.shields.io/badge/millify-v5.0.0-3CCF4E">
 <img src="https://img.shields.io/badge/moment-v2.29.4-3CCF4E">
-
+</p>
 <br>
 
 <hr>
