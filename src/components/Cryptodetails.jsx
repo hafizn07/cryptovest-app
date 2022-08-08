@@ -6,11 +6,11 @@ import {Col,Row,Typography,Select} from 'antd'
 import { MoneyCollectOutlined,DollarCircleOutlined,FundOutlined,ExclamationCircleOutlined,ThunderboltOutlined,NumberOutlined,TrophyOutlined } from '@ant-design/icons'
 import { useGetCryptoDetailsQuery,useGetCryptoHistoryQuery } from '../services/cryptoApi'
 import LineChart from './LineChart'
+
 import Loader from "./Loader"
 const {Title,Text} = Typography;
+
 const {Option} = Select;
-
-
 
 const Cryptodetails = () => {
   const {coinId} = useParams();

@@ -70,9 +70,11 @@ import {
         <Typography.Title level={5} className="price-change">
           Change: {coinHistory?.data?.change}%
         </Typography.Title>
+
         <Typography.Title level={5} className="current-price">
           Current {coinName} Price: $ {currentPrice}
         </Typography.Title>
+        
         <Line data={data} options={options}/>
       </>
     );
