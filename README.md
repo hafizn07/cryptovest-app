@@ -29,10 +29,10 @@
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size.
-- Get details of live covid cases - live cases, recovered and death details.
-- See relevant covid-19 information based on your search.
-- Graphical representaion of 120 days based on your search.
-- Researched `Components` in Material UI and `Emmet` cheat sheats .
+- Get details of live Cryptocurrency Prices - Real-Time & Historical - Crypto Market Data - Coins - Exchanges.
+- See relevant information of crypto based on your search.
+- Graphical representaion of crypto price variation and other details of respective coin.
+- Researched `Components` in Ant Design and `Emmet` cheat sheats .
 
 <hr>
 
