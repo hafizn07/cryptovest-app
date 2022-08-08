@@ -3,7 +3,7 @@ import HTMLReactParser from 'html-react-parser'
 import { useParams } from 'react-router-dom'
 import millify from 'millify'
 import {Col,Row,Typography,Select} from 'antd'
-import { MoneyCollectOutlined,DollarCircleOutlined,FundOutlined,ExclamationCircleOutlined,StopOutlined,ThunderboltOutlined,NumberOutlined,TrophyOutlined ,CheckOutlined} from '@ant-design/icons'
+import { MoneyCollectOutlined,DollarCircleOutlined,FundOutlined,ExclamationCircleOutlined,ThunderboltOutlined,NumberOutlined,TrophyOutlined } from '@ant-design/icons'
 import { useGetCryptoDetailsQuery,useGetCryptoHistoryQuery } from '../services/cryptoApi'
 import LineChart from './LineChart'
 import Loader from "./Loader"

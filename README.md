@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="public/logo512.png" alt="Covid-19 Tracker" width="200" style="border-radius:10px"></a>
+  <br>
+  Cryptovest App
+  <br>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">A cryptocurrency react application which provides data about crypto market and news by using rapid api.</h4>
 
-## Available Scripts
+<p align="center">
+  <a href="#🚀-overview">Overview</a> •
+  <a href="#🚀-built-with">Build with</a> •
+  <a href="#🚀-dependencies-used">Dependencies</a> •
+  <a href="#🚀-how-to-use">How to use</a> •
+  <a href="#🚀-links">Live links</a>
+</p>
 
-In the project directory, you can run:
+<h5 align="center">Don't forget to give a ⭐️ </h5>
 
-### `npm start`
+<hr>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![screenshot](src/images/preview.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Overview
 
-### `npm test`
+### - The challenge
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Users should be able to:
 
-### `npm run build`
+- View the optimal layout for the app depending on their device's screen size.
+- Get details of live covid cases - live cases, recovered and death details.
+- See relevant covid-19 information based on your search.
+- Graphical representaion of 120 days based on your search.
+- Researched `Components` in Material UI and `Emmet` cheat sheats .
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<hr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Built with
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [![Reactjs][reactjs]][reactjs-url] [![Redux][Redux]][Redux-url] 
+- [![RapidAPI][RapidAPI]][RapidAPI-url] [![antd][antd]][antd-url] 
+- [![Chartjs][chartjs]][chartjs-url]
 
-### `npm run eject`
+## 🚀 Dependencies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h3>The following dependencies are used in this project:</h3>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="https://img.shields.io/badge/@ant--design/icons-v4.7.0-3CCF4E"> 
+<img scr="https://img.shields.io/badge/react--router--dom-v6.3.0-3CCF4E">
+<img src="https://img.shields.io/badge/react--redux-v8.0.2-3CCF4E"> 
+<img src="https://img.shields.io/badge/@reduxjs/toolkit-v1.8.3-3CCF4E"> 
+<img src="https://img.shields.io/badge/axios-v0.27.2-3CCF4E"> <br>
+<img src="https://img.shields.io/badge/chart.js-v3.7.1-3CCF4E">
+<img src="https://img.shields.io/badge/react--chartjs--2-v4.1.0-3CCF4E">
+<img src="https://img.shields.io/badge/html--react--parser-v3.0.1-3CCF4E">
+<img src="https://img.shields.io/badge/millify-v5.0.0-3CCF4E">
+<img src="https://img.shields.io/badge/moment-v2.29.4-3CCF4E">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<hr>
 
-## Learn More
+## 🚀 How To Use
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Clone this repository
+$ git clone https://github.com/hafizmp/disney-plus-clone.git
 
-### Code Splitting
+# Go into the repository
+$ cd disney-plus-clone
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Install dependencies
+$ npm install
 
-### Analyzing the Bundle Size
+# Run the app
+$ npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+> **Note**
+> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-### Making a Progressive Web App
+## 🚀 Links
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Solution URL: [GitHub](https://github.com/hafizmp/cryptovest-app)
+- Live Site URL: [Cryptovest App](https://crypto-vest.netlify.app/)
 
-### Advanced Configuration
+<hr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+[reactjs]: https://img.shields.io/badge/REACT%20JS-000000?style=for-the-badge&logo=REACT&logoColor=61DBFB
+[reactjs-url]: https://reactjs.org/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[antd]: https://img.shields.io/badge/Ant%20Design-FF1E00?style=for-the-badge&logo=antdesign&logoColor=21E1E1
+[antd-url]: https://ant.design/
 
-### `npm run build` fails to minify
+[leaflet]: https://img.shields.io/badge/Leaflet.js-A2B5BB?style=for-the-badge&logo=leaflet&logoColor=2B7A0B
+[leaflet-url]: https://leafletjs.com/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[chartjs]: https://img.shields.io/badge/Chart.js-FFFFFF?style=for-the-badge&logo=chart.js&logoColor=ff787c
+[chartjs-url]: https://www.chartjs.org/
+
+[Redux]: https://img.shields.io/badge/Redux-AFB4FF?style=for-the-badge&logo=redux&logoColor=A66CFF
+[Redux-url]: https://redux.js.org/
+
+[RapidAPI]: https://img.shields.io/badge/Rapid%20API-1C3879?style=for-the-badge&logo=&logoColor=21E1E1
+[RapidAPI-url]: https://rapidapi.com/hub
